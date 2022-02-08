@@ -1,0 +1,15 @@
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\bin\Debug\net6.0\looping.exe
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\bin\Debug\net6.0\looping.deps.json
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\bin\Debug\net6.0\looping.runtimeconfig.json
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\bin\Debug\net6.0\looping.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\bin\Debug\net6.0\ref\looping.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\bin\Debug\net6.0\looping.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.csproj.AssemblyReference.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.AssemblyInfoInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.AssemblyInfo.cs
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.csproj.CoreCompileInputs.cache
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\ref\looping.dll
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.pdb
+C:\Users\kezal\Google Drive\Dot-net assignments\looping\obj\Debug\net6.0\looping.genruntimeconfig.cache
